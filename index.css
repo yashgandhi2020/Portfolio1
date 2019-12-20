@@ -1,0 +1,103 @@
+body {
+  color: #222;
+  overflow-x: hidden;
+}
+
+.nave {
+  padding: 0 0 !important;
+  background-color: #188291 !important;
+}
+
+.navbar-nav li {
+  padding-right: 20px;
+}
+
+.nav-link {
+  font-size: 1.1em !important;
+}
+
+.jumbotron {
+  margin: 0 0;
+  padding: 0 0;
+  border-radius: 0;
+}
+
+.padding {
+  padding-bottom: 2rem;
+}
+
+.social a {
+  font-size: 4.5em;
+  padding: 3rem;
+}
+
+.fa-twitter {
+  color: #00aced;
+}
+
+.fa-instagram {
+  color: #517fa4;
+}
+
+.fa-github {
+  color: #211f1f;
+}
+
+.fa-linkedin-in
+
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-github:hover {
+  color: #d5d5d5;
+}
+
+.brandlogo {
+  margin: 5px 5px;
+  padding: 5px, 5px;
+}
+
+.vid1 {
+  position: relative;
+  margin: 0 0;
+  padding: 0 0;
+}
+
+.vdz {
+  position: relative;
+  width: auto;
+  height: 855px;
+}
+
+.welcome {
+  color: aliceblue;
+  position: relative;
+  top: -800px;
+  height: 0px;
+}
+
+.welcome-note {
+  font-family: cursive;
+  font-size: 90px;
+}
+
+.para1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 50px;
+}
+
+.text-responsive {
+  font-size: calc(100% + 2vw + 2vh);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.last{
+  padding-top: 30px;
+  background-color: #188291 !important;
+}
