@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yashgandhi2020.github.io/static/css/main.d7f5c056.chunk.css",
+    "main.js": "/yashgandhi2020.github.io/static/js/main.63dabdd1.chunk.js",
+    "main.js.map": "/yashgandhi2020.github.io/static/js/main.63dabdd1.chunk.js.map",
+    "runtime-main.js": "/yashgandhi2020.github.io/static/js/runtime-main.2885e07f.js",
+    "runtime-main.js.map": "/yashgandhi2020.github.io/static/js/runtime-main.2885e07f.js.map",
+    "static/js/2.309a854a.chunk.js": "/yashgandhi2020.github.io/static/js/2.309a854a.chunk.js",
+    "static/js/2.309a854a.chunk.js.map": "/yashgandhi2020.github.io/static/js/2.309a854a.chunk.js.map",
+    "index.html": "/yashgandhi2020.github.io/index.html",
+    "precache-manifest.25dea17cdee8c8ba0db18c5a0cfe4629.js": "/yashgandhi2020.github.io/precache-manifest.25dea17cdee8c8ba0db18c5a0cfe4629.js",
+    "service-worker.js": "/yashgandhi2020.github.io/service-worker.js",
+    "static/css/main.d7f5c056.chunk.css.map": "/yashgandhi2020.github.io/static/css/main.d7f5c056.chunk.css.map",
+    "static/js/2.309a854a.chunk.js.LICENSE.txt": "/yashgandhi2020.github.io/static/js/2.309a854a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/yashgandhi2020.github.io/static/media/logo.5d5d9eef.svg",
+    "static/media/netlify.png": "/yashgandhi2020.github.io/static/media/netlify.ff6e9861.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2885e07f.js",
+    "static/js/2.309a854a.chunk.js",
+    "static/css/main.d7f5c056.chunk.css",
+    "static/js/main.63dabdd1.chunk.js"
+  ]
+}
